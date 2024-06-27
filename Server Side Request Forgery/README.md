@@ -65,6 +65,7 @@
 - [teknogeek/SSRF Sheriff](https://github.com/teknogeek/ssrf-sheriff) - Simple SSRF-testing sheriff written in Go
 * [assetnote/surf](https://github.com/assetnote/surf) - Returns a list of viable SSRF candidates
 * [dwisiswant0/ipfuscator](https://github.com/dwisiswant0/ipfuscator) - A blazing-fast, thread-safe, straightforward and zero memory allocations tool to swiftly generate alternative IP(v4) address representations in Go.
+* [Horlad/r3dir](https://github.com/Horlad/r3dir) - Redirection tool designed to help bypass SSRF filters that do not validate the redirect location. Integrated with Burp with help of Hackvertor tags
 
 ## Payloads with localhost
 
